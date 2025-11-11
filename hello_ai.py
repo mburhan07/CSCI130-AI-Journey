@@ -61,6 +61,8 @@ def greeting_agent():
         "Did you know? AI helps doctors detect diseases earlier!",
         "Cool fact: Self-driving cars use AI to understand their surroundings!",
         "AI tip: Spam filters use AI to decide which emails to block!",
+        "Fun fact: This is my first AI project for CSCI 130!",
+]
     ]
 
     print(f"\n{random.choice(ai_facts)}")
